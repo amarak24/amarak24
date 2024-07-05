@@ -1,6 +1,6 @@
 [![LinkedIn](https://media.licdn.com/dms/image/D4D16AQF5KN0A3YoAAA/profile-displaybackgroundimage-shrink_350_1400/0/1707673662099?e=1713398400&v=beta&t=TmLx07hoNV1HpuQ0Bb7sb94cCVXSAYzh0x0E7kfBI7c)](https://www.linkedin.com/in/amar-kalukhe/)
 <h3 align="center">Hi 👋, I'm Amar Kalukhe</h3>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <hr>
 <img align="right"  height="300" width="500" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 <p align="left">
