@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently persuing **B.E in Information Technology**
 
-- 💬 Ask me about **MERN STACK,JAVA**
+- 💬 Ask me about **MERN STACK,JAVA,REACT**
 
 - 📫 How to reach me **amarkalukhe20@gmail.com**
 
